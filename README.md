@@ -2,7 +2,8 @@
 　
 
 ■LoadDotEnv.php  
-dotenvを呼び出すためのクラスファイルです
+.envを呼び出すためのクラスファイルです
+同じディレクトリに.envファイルを置いてください
 
 
 ## search-api-script/
